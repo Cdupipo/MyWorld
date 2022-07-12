@@ -56,6 +56,11 @@ body
     transition: 0.5s;
 }
 
+.menu li a:hover
+{
+    color: #ff1252;
+}
+
 .toggle 
 {
     position: absolute;
