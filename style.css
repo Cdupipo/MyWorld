@@ -11,7 +11,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(45deg, #8460ed, #ff1252);
+    background: linear-gradient(45deg, #f5b6f9, #2DD2FA, #C6F338,#FCA740,#FC4040, #A554EC);
 }
 
 .menu
@@ -19,7 +19,6 @@ body
     position: relative;
     width: 200px;
     height: 200px;
-    background: #0f0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +32,7 @@ body
     transform-origin: 100px;
     transition: 0.5s;
     transition-delay: calc(0.1s * var(--i));
-    transform: rotate(0deg) translateX(100px);
+    transform: rotate(0deg) translateX(80px);
 }
 
 .menu.active li
@@ -73,7 +72,7 @@ body
     z-index: 10000;
     border-radius: 50%;
     cursor: pointer;
-    box-shadow: 0 3px 4px rgba(0,0,0,0.15);
+    box-shadow: 0 0 4px rgba(0,0,0,0.15);
     font-size: 2em;
     transition: transform 1.25s;
 }
