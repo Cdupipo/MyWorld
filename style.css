@@ -31,7 +31,7 @@ body
     left: 0;
     list-style: none;
     transform-origin: 100px;
-    transition: rotate(calc(360deg / 8 * var(--i)));
+    transition: 0.5s;
     transition-delay: calc(0.1s * var(--i));
     transform: rotate(0deg) translateX(100px);
 }
