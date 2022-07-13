@@ -15,7 +15,7 @@ body
 }
 
 ion-icon {
-    font-size: 64px;
+    font-size: 32px;
 }
 
 .title
@@ -42,7 +42,7 @@ ion-icon {
     display: flex;
     justify-content: center;
     align-items: center;
-    filter: drop-shadow(2px 4px 6px #FBFE2D);
+    filter: drop-shadow(2px 4px 6px #49234D);
 }
 
 .menu li
