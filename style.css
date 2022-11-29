@@ -26,14 +26,6 @@ ion-icon {
     backdrop-filter: blur(5px);
 }
 
-.welcome
-{
-    height: 50px;
-    border-radius: 50%;
-    font-size: 3em;
-    color: bisque;
-}
-
 .menu
 {
     position: relative;
