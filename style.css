@@ -95,7 +95,6 @@ ion-icon {
     transform: rotate(315deg);
 }
 
-
 #app {
     overflow: hidden;
     touch-action: pan-up;
